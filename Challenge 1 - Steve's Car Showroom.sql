@@ -1,3 +1,6 @@
+**Challenge 1 - Steve's Car Showroom**
+
+
 -- 1. What are the details of all cars purchased in the year 2022?
 SELECT *
 FROM sales 
